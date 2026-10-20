@@ -1,0 +1,17 @@
+# CatalogAI: AI Cataloging Workflows for Auctioneers
+
+> This site provides methodical, data-driven workflows for auctioneers and estate liquidators using AI to draft lot descriptions and export to platforms like HiBid and LiveAuctioneers.
+
+## Site Structure
+- `/[vertical-workflow]/`: Guides for specific auction types (e.g., estate-liquidation, storage-unit).
+- `/[item-category]/`: Specific cataloging protocols for physical goods (e.g., vintage-coins, antique-furniture).
+- `/[platform-export]/`: Technical formatting guides for auction software feeds.
+
+## Key Data Points Tracked
+- Time savings per lot
+- Export complexity rankings (1-10)
+- Accuracy risk tiers (Low/Med/High)
+- Common AI hallucination mistakes per niche
+
+## Target Audience
+Auction dealers (ages 14-85) prioritizing speed, export safety, and hammer-price protection.

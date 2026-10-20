@@ -1,0 +1,19 @@
+{
+  "name": "auction-catalog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs && npx vite build",
+    "deploy": "node scripts/build.mjs && npx vite build && npx netlify deploy --prod --dir=dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "netlify-cli": "^27.13.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
+  }
+}

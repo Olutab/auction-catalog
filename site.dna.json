@@ -1,0 +1,31 @@
+{
+  "layout_archetype": "Timeline/journey",
+  "navigation_model": "Left rail",
+  "visual_language": "Warm paper/serif editorial",
+  "type_pairing": {
+    "display": "Playfair Display",
+    "text": "Source Sans 3",
+    "reason": "Playfair gives a classic auction house feel, while Source Sans 3 offers high legibility and large x-heights for older users."
+  },
+  "palette": {
+    "bg": "#F9F6F0",
+    "surface": "#FFFFFF",
+    "ink": "#2C2825",
+    "accent": "#B85C38",
+    "warning": "#D62828"
+  },
+  "motion_level": "subtle",
+  "imagery_strategy": "generated SVG illustrations (blueprint/line-art style) and icon system",
+  "voice": {
+    "adjectives": ["Pragmatic", "Methodical", "Reassuring"],
+    "banned_phrases": ["Revolutionize your workflow", "Game-changer", "Blast through"]
+  },
+  "page_type_mix": [
+    "entity (vertical_workflow)",
+    "entity (item_category)",
+    "entity (platform_export)",
+    "comparison",
+    "category_hub",
+    "glossary"
+  ]
+}
